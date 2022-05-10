@@ -1,7 +1,7 @@
-#   DENEME
+#   Deneme
 
 ## Alt Bilgi
-sı'soıafaıassaksvsva
-vakpoasjkvğapüjsvas
+
+lorem ipsum dolor sit.
 
 [lorem ipsum]https://google.com)
