@@ -1,7 +1,7 @@
 #   DENEME
 
 ## Alt Bilgi
-sısoıafaıassaksvsva
+sı'soıafaıassaksvsva
 vakpoasjkvğapüjsvas
 
-[lorem ipsum]https://github.com/eminalpaydin/project1-deneme)
+[lorem ipsum]https://google.com)
